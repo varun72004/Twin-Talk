@@ -1,0 +1,205 @@
+{
+  "general": [
+    {
+      "id": "1763212946876",
+      "userId": "1763133202813",
+      "username": "Varun",
+      "message": "hello",
+      "type": "text",
+      "fileUrl": null,
+      "roomId": "general",
+      "timestamp": "2025-11-15T13:22:26.876Z",
+      "deleted": true,
+      "deletedAt": "2025-11-15T13:22:44.556Z"
+    },
+    {
+      "id": "1763212974956",
+      "userId": "1763133202813",
+      "username": "Varun",
+      "message": "how are you",
+      "type": "text",
+      "fileUrl": null,
+      "roomId": "general",
+      "timestamp": "2025-11-15T13:22:54.956Z",
+      "deleted": true,
+      "deletedAt": "2025-11-15T13:25:24.644Z"
+    },
+    {
+      "id": "1763213138397",
+      "userId": "1763133202813",
+      "username": "Varun",
+      "message": "Shared an image: nightcall-cyberpunk-2077-samurai-4k-rs-1920x1080.jpg",
+      "type": "image",
+      "fileUrl": "/uploads/1763213138377-677031711.jpg",
+      "roomId": "general",
+      "timestamp": "2025-11-15T13:25:38.397Z",
+      "deleted": true,
+      "deletedAt": "2025-11-15T13:27:24.699Z"
+    },
+    {
+      "id": "1763213164242",
+      "userId": "1763133202813",
+      "username": "Varun",
+      "message": "Shared an image: 5154305.jpg",
+      "type": "image",
+      "fileUrl": "/uploads/1763213164221-63619644.jpg",
+      "roomId": "general",
+      "timestamp": "2025-11-15T13:26:04.242Z",
+      "deleted": true,
+      "deletedAt": "2025-11-15T13:27:27.715Z"
+    },
+    {
+      "id": "1763213256483",
+      "userId": "1763133202813",
+      "username": "Varun",
+      "message": "Hello, hello, Mic testing 123.",
+      "type": "text",
+      "fileUrl": null,
+      "roomId": "general",
+      "timestamp": "2025-11-15T13:27:36.483Z",
+      "deleted": true,
+      "deletedAt": "2025-11-15T13:28:16.323Z"
+    },
+    {
+      "id": "1763214079652",
+      "userId": "1763214056132",
+      "username": "Vivek",
+      "message": "yoyo honey singh",
+      "type": "text",
+      "fileUrl": null,
+      "roomId": "general",
+      "timestamp": "2025-11-15T13:41:19.652Z",
+      "deleted": false
+    },
+    {
+      "id": "1763215118827",
+      "userId": "1763133202813",
+      "username": "Varun",
+      "message": "hello sare",
+      "type": "text",
+      "fileUrl": null,
+      "roomId": "general",
+      "timestamp": "2025-11-15T13:58:38.827Z",
+      "deleted": false
+    },
+    {
+      "id": "1763215145335",
+      "userId": "1763133202813",
+      "username": "Varun",
+      "message": "Hello. Hello, Mike. Testing 123. Double Yamaha AT1123.",
+      "type": "text",
+      "fileUrl": null,
+      "roomId": "general",
+      "timestamp": "2025-11-15T13:59:05.335Z",
+      "deleted": false
+    },
+    {
+      "id": "1763215165781",
+      "userId": "1763133202813",
+      "username": "Varun",
+      "message": "Shared an image: 1341150.png",
+      "type": "image",
+      "fileUrl": "/uploads/1763215165667-850330004.png",
+      "roomId": "general",
+      "timestamp": "2025-11-15T13:59:25.781Z",
+      "deleted": false
+    },
+    {
+      "id": "1763215770669",
+      "userId": "1763214056132",
+      "username": "Vivek",
+      "message": "hello",
+      "type": "text",
+      "fileUrl": null,
+      "roomId": "general",
+      "timestamp": "2025-11-15T14:09:30.669Z",
+      "deleted": false
+    },
+    {
+      "id": "1763215802080",
+      "userId": "1763214056132",
+      "username": "Vivek",
+      "message": "hello",
+      "type": "text",
+      "fileUrl": null,
+      "roomId": "general",
+      "timestamp": "2025-11-15T14:10:02.080Z",
+      "deleted": false
+    }
+  ],
+  "random": [
+    {
+      "id": "1763212957887",
+      "userId": "1763133202813",
+      "username": "Varun",
+      "message": "kaise ho sare",
+      "type": "text",
+      "fileUrl": null,
+      "roomId": "random",
+      "timestamp": "2025-11-15T13:22:37.887Z",
+      "deleted": true,
+      "deletedAt": "2025-11-15T13:23:56.316Z"
+    }
+  ],
+  "dm:1763133202813:1763214056132": [
+    {
+      "id": "1763214448113",
+      "userId": "1763133202813",
+      "username": "Varun",
+      "message": "hello",
+      "type": "text",
+      "fileUrl": null,
+      "roomId": "dm:1763133202813:1763214056132",
+      "timestamp": "2025-11-15T13:47:28.113Z",
+      "deleted": false
+    },
+    {
+      "id": "1763215060026",
+      "userId": "1763214056132",
+      "username": "Vivek",
+      "message": "hello sir",
+      "type": "text",
+      "fileUrl": null,
+      "roomId": "dm:1763133202813:1763214056132",
+      "timestamp": "2025-11-15T13:57:40.026Z",
+      "deleted": false
+    },
+    {
+      "id": "1763215755078",
+      "userId": "1763214056132",
+      "username": "Vivek",
+      "message": "hello",
+      "type": "text",
+      "fileUrl": null,
+      "roomId": "dm:1763133202813:1763214056132",
+      "timestamp": "2025-11-15T14:09:15.078Z",
+      "deleted": false
+    }
+  ],
+  "dm:1763133202813:1763215380831": [
+    {
+      "id": "1763215406022",
+      "userId": "1763215380831",
+      "username": "Vishesh",
+      "message": "hii",
+      "type": "text",
+      "fileUrl": null,
+      "roomId": "dm:1763133202813:1763215380831",
+      "timestamp": "2025-11-15T14:03:26.022Z",
+      "deleted": false
+    }
+  ],
+  "dm:1763214056132:1763215380831": [
+    {
+      "id": "1763215413472",
+      "userId": "1763215380831",
+      "username": "Vishesh",
+      "message": "hii",
+      "type": "text",
+      "fileUrl": null,
+      "roomId": "dm:1763214056132:1763215380831",
+      "timestamp": "2025-11-15T14:03:33.472Z",
+      "deleted": false
+    }
+  ]
+}
